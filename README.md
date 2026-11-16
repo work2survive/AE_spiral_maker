@@ -104,6 +104,16 @@ You can test and preview **AE Spiral Maker** interactively in the browser withou
 
 ---
 
+## 💖 Support / Sponsor
+
+If you find this tool helpful and want to support its ongoing development and maintenance:
+
+[![Sponsor work2survive](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/work2survive)
+
+Every contribution helps keep these open-source After Effects tools free, maintained, and continuously improved for the motion design community!
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
