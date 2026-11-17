@@ -10,7 +10,7 @@
 A procedural vector spiral generator for Adobe After Effects. Openly inspired by the online SVG spiral utility at [tiny-online.tools/svg-tools/svg-spiral-generator](https://tiny-online.tools/svg-tools/svg-spiral-generator), rebuilt from the ground up for motion designers with native After Effects Shape Layers, animatable live effect controls, and **native After Effects Stroke Taper integration** for independent start and end stroke thicknesses.
 
 ---
-[![Watch the video](https://img.youtube.com/vi/vt5fpE0bzSY/maxresdefault.jpg)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/Fc9rlHDSWjM/maxresdefault.jpg)](https://youtu.be/Fc9rlHDSWjM)
 
 ## 🎯 Key Capabilities
 
